@@ -1,0 +1,43 @@
+a, a:hover {
+  color: #59C8DA;
+}
+
+
+/* Back to top button */
+.back-to-top {
+  background: #59C8DA;
+  color: #fff;
+}
+
+
+.back-to-top:focus {
+  background: #59C8DA;
+  color: #fff;
+}
+
+.back-to-top:hover {
+  background: #019090;
+  color: #fff;
+}
+
+.navbar-default {
+  background: #59C8DA;
+}
+
+.form-control:focus {
+  border-color: #59C8DA;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #59C8DA;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #59C8DA;
+}
+
+.service .carousel-indicators .active {
+  background: #59C8DA;
+}
+
+.btn-theme {
+  background: #59C8DA;
+}
+
+.contact-widget i {
+  color: #59C8DA;
+}
